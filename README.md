@@ -2,7 +2,7 @@
 
 Work in Progress. 
 
-Porject to learn Unity. 
+Project to learn Unity. 
 
 
 
