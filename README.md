@@ -2,7 +2,7 @@
 
 Work in Progress. 
 
-2nd Porject to learn Unity. 
+Porject to learn Unity. 
 
 
 
